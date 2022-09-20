@@ -1,8 +1,18 @@
+# Youtube Clone 
+
+comments and like functionalities are not there yet,
+You can Search and Watch Videos
+
 # This Project is Hosted at 
 
 https://stream-line.netlify.app
 
 using Rapid Api Hub's Youtube v3 Api
+
+# incase if it keeps loading forever...
+
+Daily API Request Limit is Exceeded
+
 
 # Getting Started with Create React App
 
