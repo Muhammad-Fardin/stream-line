@@ -11,7 +11,7 @@ using Rapid Api Hub's Youtube v3 Api
 
 # incase if it keeps loading forever...
 
-Daily ### `API Request` Limit is Exceeded
+Daily `API Request` Limit is Exceeded
 
 
 # Getting Started with Create React App
